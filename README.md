@@ -1,4 +1,4 @@
 My first readme
 
 
-This file isup to date
+This file is up to date
